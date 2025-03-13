@@ -7,7 +7,7 @@ This project leverages **Machine Learning (ML) and Deep Learning (DL)** to predi
 
 We implement **MLOps best practices** for model building, tuning, interpretation, and deployment using **Flask, Gunicorn, Streamlit, and Hugging Face Spaces**.  
 
----
+<img src="images/img1.jpg" alt="Project Banner" width="350">
 
 ## 📊 **Objectives**  
 ✅ **Perform Data Analysis & Visualization** 
@@ -101,6 +101,9 @@ This will launch a **Gradio web interface** in your browser.
 - 🔹 Businesses with higher ratings & more reviews are more likely to offer validated parking.
 - 🔹 Features like price level, credit card acceptance, and check-ins significantly impact parking availability.
 - 🔹 CNN models can effectively classify business photos based on Yelp image data.
+
+<img src="images/img2.jpg" alt="Project Banner" width="350">
+<img src="images/img3.jpg" alt="Project Banner" width="350">
 
 🎯 **Future Improvements**
 - Implement real-time model monitoring for deployed models.
